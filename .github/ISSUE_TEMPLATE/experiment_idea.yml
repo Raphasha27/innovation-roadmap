@@ -1,0 +1,24 @@
+name: ?? New Experiment Idea
+description: Propose a new AI, Cyber, or Quant experiment
+title: "[IDEA] "
+labels: ["enhancement", "experiment"]
+body:
+  - type: textarea
+    id: overview
+    attributes:
+      label: Experiment Overview
+      description: What is the core concept of this prototype?
+    validations:
+      required: true
+  - type: dropdown
+    id: domain
+    attributes:
+      label: Technical Domain
+      options:
+        - AI + LLM
+        - Finance + Quant
+        - Cybersecurity
+        - Data Science
+        - Automation
+    validations:
+      required: true
