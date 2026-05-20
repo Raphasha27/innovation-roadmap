@@ -14,19 +14,25 @@ Our core philosophy: **"Rapid experimentation + visible execution + automation."
 
 ---
 
-## ?? Active Experimental Repositories
+## ?? Active Experimental Repositories (8 Systems Online)
 
 ### 1. Finance & Quant
 * **[Nexus-Quant](https://github.com/Raphasha27/Nexus-Quant)**: Autonomous market anomaly detection and synthetic data ingestion pipeline.
+* **[TradePulse-Terminal-Lab](https://github.com/Raphasha27/TradePulse-Terminal-Lab)**: AI-powered financial trading assistant UI. ([Live Demo](https://raphasha27.github.io/TradePulse-Terminal-Lab/))
 
 ### 2. Cybersecurity & Threat Intel
-* **[CyberMesh-Labs](https://github.com/Raphasha27/CyberMesh-Labs)**: AI-powered Security Operations Center (SOC) dashboard. Hosted entirely on GitHub Pages.
+* **[CyberMesh-Labs](https://github.com/Raphasha27/CyberMesh-Labs)**: AI-powered Security Operations Center (SOC) dashboard. ([Live Demo](https://raphasha27.github.io/CyberMesh-Labs/))
+* **[PhantomGrid-OSINT-Lab](https://github.com/Raphasha27/PhantomGrid-OSINT-Lab)**: Autonomous OSINT scraper and intelligence automation bot.
 
-### 3. Data Science & Analytics
-* **[InsightForge-AI](https://github.com/Raphasha27/InsightForge-AI)**: Automated machine learning model training simulator with nightly GitHub Actions metrics syncing.
+### 3. Data Science, Predictive Analytics & Markets
+* **[InsightForge-AI](https://github.com/Raphasha27/InsightForge-AI)**: Automated machine learning model training simulator.
+* **[Predictive-Core-Lab](https://github.com/Raphasha27/Predictive-Core-Lab)**: Sandbox for testing predictive business intelligence oracles.
+* **[Predictive-Election-Markets-Lab](https://github.com/Raphasha27/Predictive-Election-Markets-Lab)**: Real-time simulation of socio-political predictive betting markets.
 
-### 4. Full Stack SaaS & Prediction
-* **[Predictive-Core-Lab](https://github.com/Raphasha27/Predictive-Core-Lab)**: Isolated sandbox (experimental/v1 branch) for testing predictive business intelligence oracles.
+### 4. Automation Engineering & Core Infrastructure
+* **[Automata-Stack-Lab](https://github.com/Raphasha27/Automata-Stack-Lab)**: AI workflow orchestrator to automate developer operations.
+* **[VectorFlow-Studio-Lab](https://github.com/Raphasha27/VectorFlow-Studio-Lab)**: Local AI document retrieval and RAG sandbox.
+* **[Kirov-AI-SDK](https://github.com/Raphasha27/Kirov-AI-SDK)**: Internal, modular Python SDK standardizing telemetry and AI interactions.
 
 ---
 
@@ -35,9 +41,3 @@ All repositories in this network leverage **GitHub-Native Automation** to minimi
 - **Zero-Cost CI/CD:** GitHub Actions power all daily data syncing, model training, and threat intelligence mocks.
 - **Strict Deployment Safety:** Experimental features run strictly in -lab repos or on experimental/* branches to protect core portfolio assets.
 - **Continuous Compounding:** Every new component is built to be modular, linking back into the central GitHub ecosystem.
-
-## ?? 2026 Innovation Roadmap
-Check our [GitHub Projects Board](https://github.com/Raphasha27/innovation-roadmap/projects) or the Issues tab to see what is currently being developed. Upcoming domains include:
-- [ ] Automata-Stack: AI Workflow Automation SaaS Prototype
-- [ ] VectorFlow-Studio: RAG and Local AI Document Retrieval Sandbox
-- [ ] SignalMind-Platform: Social Sentiment Financial Prediction Engine
